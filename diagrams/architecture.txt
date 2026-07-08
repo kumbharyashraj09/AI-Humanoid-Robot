@@ -1,1 +1,9 @@
-
+Camera/Microphone
+        ↓
+Input Processing
+        ↓
+AI Decision Engine
+        ↓
+Motor Controller
+        ↓
+Robot Action
